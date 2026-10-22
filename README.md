@@ -23,9 +23,7 @@ the selection term Fisher's theorem describes and a second term it does not.
 
 ## 3. Data fetch
 
-None — a deliberate, disclosed exception, the same category as this portfolio's other theory-forward
-builds (#23B/#23C/#23D/#23E/#23F). The multi-allele selection model and its exact decomposition are the
-object of study.
+--NOT APPLICABLE--
 
 ## 4. Data describe
 
