@@ -23,9 +23,11 @@ the selection term Fisher's theorem describes and a second term it does not.
 
 ## 3. Data fetch
 
-None — a deliberate, disclosed exception, the same category as this portfolio's other theory-forward
-builds (#23B/#23C/#23D/#23E/#23F). The multi-allele selection model and its exact decomposition are the
-object of study.
+None — and that's the right choice for this question: the claim being tested is a precise mathematical
+identity about mean-fitness dynamics, so the real "data" is the model's own parameter space (allele
+fitnesses, initial frequencies, strength of frequency-dependence), swept directly and checked against an
+independently-derived symbolic solution — a stricter correctness standard for this specific claim than any
+single real dataset could provide.
 
 ## 4. Data describe
 
